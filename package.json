@@ -1,0 +1,17 @@
+{
+  "name": "example-standard-streams-node-cycle",
+  "version": "1.0.0",
+  "description": "Demonstrate an oversimplified standard-streams driver for Cycle.js in a Node.js app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "allen4atsi",
+  "license": "Unlicense",
+  "dependencies": {
+    "@cycle/run": "^5.4.0",
+    "xstream": "^11.12.0"
+  }
+}
